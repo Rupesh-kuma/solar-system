@@ -8,7 +8,7 @@ body{
     background-image: url(Bg.jpg);
     background-size: 100%;
     height: 100vh;
-    top: 129px !important;
+    top: 10px !important;
     position: relative !important;
 }
 
@@ -234,7 +234,7 @@ p{
 
 .tables{
     position: absolute;
-    top: 700px;
+    top: 800px;
     right: 0;
     left: 0;
     color: #fff;
